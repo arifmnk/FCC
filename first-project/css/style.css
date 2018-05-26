@@ -1,0 +1,14 @@
+.container{
+  background-color: #EEEEEE;
+  text-align:center;
+  font-family:sans-serif,arial,helvetica;
+}
+
+.thumbnail{
+  margin:0px 0px 20px 0px;
+}
+
+.con{
+/*   margin-left:170px; */
+  text-align:left;
+}
